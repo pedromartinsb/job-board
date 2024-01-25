@@ -22,7 +22,7 @@
       </div>
 
       <div class="mb-4">
-        <label class="mb-2 block text-sm font-medium text-slate-900">Updalod CV</label>
+        <label class="mb-2 block text-sm font-medium text-slate-900">Upload CV</label>
         <x-text-input type="file" name="cv" />
       </div>
 
